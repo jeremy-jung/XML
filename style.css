@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+count {
+    display:block;
+    border-bottom: 1px solid;
+    padding: 8px 5px;
+    background-color: rgb(92, 59, 243);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+song {
+    display:block;
+    border-bottom: 1px solid;
+    padding: 8px 0px;
+    background-color: rgb(92, 59, 243)
+}
+
+song title {
+    margin-left: 10px;
+    display: block;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+song artist {
+    margin-left: 20px;
+    display: block;
+    font-size: 20px;
+    color: rgb(0, 195, 255);
+    border-radius: 5px;
+    padding-left: 4px;
+    background-color: rgb(65, 120, 223);
+}
+
+song genre {
+    margin-left: 20px;
+    display: block;
+    font-size: 15px;
+    padding-left: 4px;
+    color: rgb(234, 0, 255);
+}
+
+song year {
+    margin-left: 20px;
+    display: block;
+    padding-left: 4px;
+    color: rgb(234, 0, 255);
+}
